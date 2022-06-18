@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/FerBQuagliaro/static/css/main.35adb3a0.chunk.css",
+    "main.js": "/FerBQuagliaro/static/js/main.6b9e65db.chunk.js",
+    "main.js.map": "/FerBQuagliaro/static/js/main.6b9e65db.chunk.js.map",
+    "runtime-main.js": "/FerBQuagliaro/static/js/runtime-main.a2e719f4.js",
+    "runtime-main.js.map": "/FerBQuagliaro/static/js/runtime-main.a2e719f4.js.map",
+    "static/js/2.29b16e8b.chunk.js": "/FerBQuagliaro/static/js/2.29b16e8b.chunk.js",
+    "static/js/2.29b16e8b.chunk.js.map": "/FerBQuagliaro/static/js/2.29b16e8b.chunk.js.map",
+    "index.html": "/FerBQuagliaro/index.html",
+    "static/css/main.35adb3a0.chunk.css.map": "/FerBQuagliaro/static/css/main.35adb3a0.chunk.css.map",
+    "static/js/2.29b16e8b.chunk.js.LICENSE.txt": "/FerBQuagliaro/static/js/2.29b16e8b.chunk.js.LICENSE.txt",
+    "static/media/fercha-ilus.3595f086.png": "/FerBQuagliaro/static/media/fercha-ilus.3595f086.png",
+    "static/media/img.32ca8f0d.gif": "/FerBQuagliaro/static/media/img.32ca8f0d.gif",
+    "static/media/moon.3bea3d39.png": "/FerBQuagliaro/static/media/moon.3bea3d39.png",
+    "static/media/sun.f794832a.png": "/FerBQuagliaro/static/media/sun.f794832a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2e719f4.js",
+    "static/js/2.29b16e8b.chunk.js",
+    "static/css/main.35adb3a0.chunk.css",
+    "static/js/main.6b9e65db.chunk.js"
+  ]
+}
