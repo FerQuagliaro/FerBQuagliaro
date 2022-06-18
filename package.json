@@ -1,7 +1,8 @@
 {
   "name": "new",
   "version": "0.1.0",
-  "private": true,
+   "homepage": "https://ferquagliaro.github.io/FerBQuagliaro/",
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
     "@lottiefiles/react-lottie-player": "^3.4.1",
@@ -53,6 +54,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/FerQuagliaro/FerBQuagliaro/issues"
-  },
-  "homepage": "https://ferquagliaro.github.io/FerBQuagliaro/"
+  }
 }
